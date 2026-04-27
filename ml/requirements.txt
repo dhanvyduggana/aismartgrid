@@ -1,0 +1,24 @@
+# ✅ Recommended: Use Python 3.11 for TensorFlow + Pandas stability on Windows
+# Create venv with Python 3.11 before installing
+
+# Core ML
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.4.2
+joblib==1.3.2
+
+# Deep Learning (stable on Python 3.11)
+tensorflow==2.15.0
+keras==2.15.0
+
+# Backend API
+flask==3.0.0
+flask-cors==4.0.0
+
+# Visualization
+matplotlib==3.8.2
+
+# Utilities
+python-dotenv==1.0.0
+setuptools>=68
+wheel>=0.42
